@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\controllers\\somiodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:controllers\\somiodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\xml\\systemschema.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:xml\\systemschema.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\app_data\\dummydata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:app_data\\dummydata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\xml\\systemschema.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:xml\\systemschema.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36C248B2-0B82-4708-B745-5230C3A3C0B1}|SOMIOD.csproj|solutionrelative:web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\AppA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\NotificationsAppControll.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\l16po\\desktop\\ipl\\3 ano\\1 sem\\is\\projeto_is\\base_controll_middleware\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\ConfigurationsAppControll.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\NotificationsAppA.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\ConfigurationsAppA.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\l16po\\desktop\\ipl\\3 ano\\1 sem\\is\\projeto_is\\app_a_light\\appa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\AppB_ControlLight\\AppB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\l16po\\desktop\\ipl\\3 ano\\1 sem\\is\\projeto_is\\appb_controllight\\appb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SomiodController.cs",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\Controllers\\SomiodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SomiodController.cs",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\Controllers\\SomiodController.cs",
+              "RelativeToolTip": "Controllers\\SomiodController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwLQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:21:15.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecordController.cs",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\Controllers\\RecordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecordController.cs",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\Controllers\\RecordController.cs",
+              "RelativeToolTip": "Controllers\\RecordController.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAgwOkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:20:36.329Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:45:05.64Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemSchema.xsd",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\XML\\SystemSchema.xsd",
+              "RelativeDocumentMoniker": "XML\\SystemSchema.xsd",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\XML\\SystemSchema.xsd",
+              "RelativeToolTip": "XML\\SystemSchema.xsd",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-16T19:16:05.639Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppA.cs",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\AppA.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\AppA.cs",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\AppA.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\AppA.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:27:26.802Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationsAppControll.xml",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\NotificationsAppControll.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\NotificationsAppControll.xml",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\NotificationsAppControll.xml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\NotificationsAppControll.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-21T19:20:50.832Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\web.config",
+              "RelativeDocumentMoniker": "web.config",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\web.config",
+              "RelativeToolTip": "web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-16T11:12:58.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:20:37.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppB.cs",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\AppB_ControlLight\\AppB.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\AppB_ControlLight\\AppB.cs",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\AppB_ControlLight\\AppB.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\AppB_ControlLight\\AppB.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA/wDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:13:28.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfigurationsAppA.xml",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\ConfigurationsAppA.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\ConfigurationsAppA.xml",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\ConfigurationsAppA.xml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\ConfigurationsAppA.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-21T11:19:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.cs",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:57:37.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:12:48.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotificationsAppA.xml",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\NotificationsAppA.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\NotificationsAppA.xml",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\NotificationsAppA.xml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\NotificationsAppA.xml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-21T19:13:43.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConfigurationsAppControll.xml",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\ConfigurationsAppControll.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\ConfigurationsAppControll.xml",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\ConfigurationsAppControll.xml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\ConfigurationsAppControll.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-21T19:21:02.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.cs",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\Base_controll_Middleware\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:24:50.423Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\AppA.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\AppA.cs",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\AppA.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\App_A_Light\\AppA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:24:52.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAG8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:06:05.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DummyData.sql",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\App_Data\\DummyData.sql",
+              "RelativeDocumentMoniker": "App_Data\\DummyData.sql",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\App_Data\\DummyData.sql",
+              "RelativeToolTip": "App_Data\\DummyData.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-20T19:29:20.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\AppB_ControlLight\\AppB.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\AppB_ControlLight\\AppB.cs",
+              "ToolTip": "C:\\Users\\l16po\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\AppB_ControlLight\\AppB.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\IPL\\3 ano\\1 Sem\\IS\\Projeto_IS\\AppB_ControlLight\\AppB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:24:48.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContainerController.cs",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\Controllers\\ContainerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContainerController.cs",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\Controllers\\ContainerController.cs",
+              "RelativeToolTip": "Controllers\\ContainerController.cs",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAmwHsBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:59:12.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SystemSchema.xsd [Design]",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\XML\\SystemSchema.xsd",
+              "RelativeDocumentMoniker": "XML\\SystemSchema.xsd",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\XML\\SystemSchema.xsd [Design]",
+              "RelativeToolTip": "XML\\SystemSchema.xsd [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-19T09:35:41.985Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "web.Release.config",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\web.Release.config",
+              "RelativeDocumentMoniker": "web.Release.config",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\web.Release.config",
+              "RelativeToolTip": "web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-16T11:12:49.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\web.Debug.config",
+              "RelativeDocumentMoniker": "web.Debug.config",
+              "ToolTip": "C:\\Users\\l16po\\Downloads\\SOMIOD_PROJECT_D07\\SOMIOD_PROJECT_D07\\Projeto_IS\\Projeto_IS\\IS_PROJECT_SOMIOD\\web.Debug.config",
+              "RelativeToolTip": "web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-16T11:12:49.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

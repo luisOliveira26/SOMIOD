@@ -1,0 +1,13 @@
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\bin\Debug\App_A_Light.exe.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\bin\Debug\App_A_Light.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\bin\Debug\App_A_Light.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\obj\Debug\App_A_Light.csproj.AssemblyReference.cache
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\obj\Debug\App_A_Light.AppA.resources
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\obj\Debug\App_A_Light.Properties.Resources.resources
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\obj\Debug\App_A_Light.csproj.GenerateResource.cache
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\obj\Debug\App_A_Light.csproj.CoreCompileInputs.cache
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\obj\Debug\App_A_Light.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\obj\Debug\App_A_Light.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\bin\Debug\M2Mqtt.Net.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\App_A_Light\obj\Debug\App_A_Li.509B2A80.Up2Date

@@ -1,0 +1,192 @@
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\SOMOID.dll.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\SOMOID.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\SOMOID.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Net.Http.Formatting.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.WebHost.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Net.Http.Formatting.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.WebHost.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\obj\Debug\SOMIOD.csproj.AssemblyReference.cache
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\obj\Debug\SOMIOD.csproj.CoreCompileInputs.cache
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\obj\Debug\SOMIOD.csproj.Up2Date
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\obj\Debug\SOMOID.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\obj\Debug\SOMOID.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\csc.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\csc.exe.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\csc.rsp
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\csi.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\csi.exe.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\csi.rsp
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Buffers.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Memory.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\vbc.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\vbc.exe.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\vbc.rsp
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\VBCSCompiler.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Buffers.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Memory.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Numerics.Vectors.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.Bson.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.Bson.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Buffers.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Memory.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Numerics.Vectors.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\M2Mqtt.Net.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\IS_PROJECT_SOMIOD\bin\M2Mqtt.Net.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\SOMOID.dll.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\SOMOID.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\SOMOID.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csc.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csc.exe.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csc.rsp
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csi.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csi.exe.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csi.rsp
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Buffers.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Memory.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\vbc.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\vbc.exe.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\vbc.rsp
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\VBCSCompiler.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\M2Mqtt.Net.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.Bson.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Buffers.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Memory.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Net.Http.Formatting.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Numerics.Vectors.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.WebHost.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\M2Mqtt.Net.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.Bson.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Buffers.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Memory.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Net.Http.Formatting.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Numerics.Vectors.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.WebHost.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.xml
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\obj\Debug\SOMIOD.csproj.AssemblyReference.cache
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\obj\Debug\SOMIOD.csproj.CoreCompileInputs.cache
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\obj\Debug\SOMIOD.csproj.Up2Date
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\obj\Debug\SOMOID.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\IS_PROJECT_SOMIOD\obj\Debug\SOMOID.pdb
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\SOMOID.dll.config
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\SOMOID.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\SOMOID.pdb
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csc.exe
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csc.exe.config
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csc.rsp
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csi.exe
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csi.exe.config
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\csi.rsp
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Buffers.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Memory.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\vbc.exe
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\vbc.exe.config
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\vbc.rsp
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\VBCSCompiler.exe
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\M2Mqtt.Net.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.Bson.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Buffers.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Memory.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Net.Http.Formatting.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Numerics.Vectors.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.WebHost.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\M2Mqtt.Net.pdb
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.Bson.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Buffers.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Memory.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Net.Http.Formatting.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Numerics.Vectors.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\System.Web.Http.WebHost.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\bin\Newtonsoft.Json.xml
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\obj\Debug\SOMIOD.csproj.AssemblyReference.cache
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\obj\Debug\SOMIOD.csproj.CoreCompileInputs.cache
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\obj\Debug\SOMIOD.csproj.Up2Date
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\obj\Debug\SOMOID.dll
+C:\Users\l16po\Downloads\SOMIOD_PROJECT_D07\SOMIOD_PROJECT_D07\Projeto_IS\Projeto_IS\IS_PROJECT_SOMIOD\obj\Debug\SOMOID.pdb

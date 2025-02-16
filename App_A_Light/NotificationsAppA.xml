@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<allNotifications>
+  <NotificationTrigger>
+    <Record id="76">
+      <name>rec-24d92bbb-154c-4375-be2c-61dad82f2e8c</name>
+      <content>On</content>
+      <creation_datetime>2024-12-21T19:19:22</creation_datetime>
+      <parent>6</parent>
+    </Record>
+    <Event>insert</Event>
+  </NotificationTrigger>
+  <NotificationTrigger>
+    <Record id="77">
+      <name>rec-2e993980-a99d-48d0-a78b-18f4660f2c38</name>
+      <content>Off</content>
+      <creation_datetime>2024-12-21T19:19:40</creation_datetime>
+      <parent>6</parent>
+    </Record>
+    <Event>insert</Event>
+  </NotificationTrigger>
+  <NotificationTrigger>
+    <Record id="78">
+      <name>rec-0faaa1c5-ea19-480b-a479-edb1900be4ac</name>
+      <content>On</content>
+      <creation_datetime>2024-12-21T19:19:52</creation_datetime>
+      <parent>6</parent>
+    </Record>
+    <Event>insert</Event>
+  </NotificationTrigger>
+  <NotificationTrigger>
+    <Record id="79">
+      <name>rec-30d44af8-e790-445b-bfb1-292bfa9a12ce</name>
+      <content>Off</content>
+      <creation_datetime>2024-12-21T19:19:57</creation_datetime>
+      <parent>6</parent>
+    </Record>
+    <Event>insert</Event>
+  </NotificationTrigger>
+  <NotificationTrigger>
+    <Record id="80">
+      <name>rec-b8b89f6f-3dde-4297-98cf-ae45ae202d25</name>
+      <content>Off</content>
+      <creation_datetime>2024-12-21T19:20:02</creation_datetime>
+      <parent>6</parent>
+    </Record>
+    <Event>insert</Event>
+  </NotificationTrigger>
+</allNotifications>

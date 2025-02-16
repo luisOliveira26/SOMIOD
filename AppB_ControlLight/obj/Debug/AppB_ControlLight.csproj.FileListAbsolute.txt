@@ -1,0 +1,13 @@
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\bin\Debug\AppB_ControlLight.exe.config
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\bin\Debug\AppB_ControlLight.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\bin\Debug\AppB_ControlLight.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\bin\Debug\M2Mqtt.Net.dll
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\obj\Debug\AppB_ControlLight.csproj.AssemblyReference.cache
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\obj\Debug\AppB_ControlLight.AppB.resources
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\obj\Debug\AppB_ControlLight.Properties.Resources.resources
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\obj\Debug\AppB_ControlLight.csproj.GenerateResource.cache
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\obj\Debug\AppB_ControlLight.csproj.CoreCompileInputs.cache
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\obj\Debug\AppB_Con.802EBEAD.Up2Date
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\obj\Debug\AppB_ControlLight.exe
+C:\Users\l16po\Desktop\IPL\3 ano\1 Sem\IS\Projeto_IS\AppB_ControlLight\obj\Debug\AppB_ControlLight.pdb
